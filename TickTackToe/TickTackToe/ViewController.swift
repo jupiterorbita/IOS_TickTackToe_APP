@@ -25,16 +25,7 @@ class ViewController: UIViewController {
     [0,4,8],
     [2,4,6]
     ]
-//
-//    var tttArr: [String] = ["A", "A", "A",
-//                            "A", "A", "A",
-//                            "A", "A", "A"]
-//
-    
-    
-//    var player1 = "blue"
-//    var player2 = "red"
-    
+
     
     @IBOutlet var tttButtons: [UIButton]!
     
@@ -84,7 +75,6 @@ class ViewController: UIViewController {
         }
         // print("tttButtons ->", tttButtons)
         // print("====")
-
     }
 
     override func didReceiveMemoryWarning() {
